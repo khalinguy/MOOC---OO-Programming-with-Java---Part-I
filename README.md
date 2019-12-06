@@ -7,7 +7,7 @@ The repository is belonged to the course:
 
    mooc.fi/english
    
- This is my very first programming course which introduces me to the basics of object-oriented programming concepts. 
+ This is my very first programming course which introduced me to the basics of object-oriented programming concepts. 
  
  I do not have a background on Computing Sciences or related fields. 
  However, with my interest and curosity in programming, I decided to take this course as the first step to explore coding.
