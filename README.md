@@ -5,7 +5,7 @@ The repository is belonged to the course:
 
   University of Helsinki, Finland
 
-   mooc.fi/english
+ http://moocfi.github.io/courses/2013/programming-part-1/material.html
    
  This is my very first programming course which introduced me to the basics of object-oriented programming concepts. 
  
